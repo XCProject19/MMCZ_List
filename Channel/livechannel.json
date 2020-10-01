@@ -19,6 +19,60 @@
   "tag" : ""
   },
   {
+  "title" : "3ABN KIDS TV",
+  "link" : "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8",
+  "cover" : "https://i.ibb.co/fGjHxh6/3-ABN-KIDS-TV.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Akaram Kidz",
+  "link" : "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8",
+  "cover" : "https://i.ibb.co/JkT7vBV/Akaram-Kidz.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "ch 23 החינוכית",
+  "link" : "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8",
+  "cover" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png",
+  "tag" : ""
+  },
+  {
+  "title" : "GEM Kids",
+  "link" : "http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8",
+  "cover" : "https://i.ibb.co/482Msgz/GEM-Kids.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "Hodhod",
+  "link" : "http://51.158.184.234/hls/stream.m3u8",
+  "cover" : "https://i.ibb.co/HGVqMkV/Hodhod.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "IBC Kids",
+  "link" : "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8",
+  "cover" : "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Title",
+  "link" : "Link",
+  "cover" : "Cover",
+  "tag" : ""
+  },
+  {
+  "title" : "Title",
+  "link" : "Link",
+  "cover" : "Cover",
+  "tag" : ""
+  },
+  {
+  "title" : "Title",
+  "link" : "Link",
+  "cover" : "Cover",
+  "tag" : ""
+  },
+  {
   "title" : "Title",
   "link" : "Link",
   "cover" : "Cover",
