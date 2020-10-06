@@ -1,6 +1,12 @@
 {
   "allchannel" : [
     {
+  "title" : "Sunny Bunnies",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/OurChannels/SunnyBunnies/",
+  "cover" : "https://i.ytimg.com/vi/HMkaN1NaCno/maxresdefault.jpg",
+  "tag" : ""
+  }
+   ,{
   "title" : "Scooby-Doo Collection",
   "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/OurChannels/ScoobyDoo/",
   "cover" : "https://i.ytimg.com/vi/E_lByLdKeKY/maxresdefault.jpg",
