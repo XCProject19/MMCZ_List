@@ -1,6 +1,12 @@
 {
   "allchannel" : [
-    {
+  {
+  "title" : "Pink Panther",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/OurChannels/PinkPanther/",
+  "cover" : "https://hyperpix.net/wp-content/uploads/2222/08/pink-panther-logo-font-download.jpg",
+  "tag" : ""
+  }
+    ,{
   "title" : "Sunny Bunnies",
   "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/OurChannels/SunnyBunnies/",
   "cover" : "https://i.ytimg.com/vi/HMkaN1NaCno/maxresdefault.jpg",
@@ -9,28 +15,28 @@
    ,{
   "title" : "Scooby-Doo Collection",
   "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/OurChannels/ScoobyDoo/",
-  "cover" : "https://i.ytimg.com/vi/E_lByLdKeKY/maxresdefault.jpg",
+  "cover" : "https://metvcdn.metv.com/KbQ83-1551727016-2412-blog-scooby%20doo%20voice.jpg",
   "tag" : ""
   }
    ,
    {
-  "title" : "မြန်မာနတ်သမီးပုံပြင်များ",
+  "title" : "Myanmar Fairy Tales",
   "link" : "https://raw.githubusercontent.com/XCProject19/mfairytales-collection/master/",
-  "cover" : "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2017/05/ppg.jpg",
+  "cover" : "https://lh3.googleusercontent.com/oEqejFYsTmjTNZPUHOlAYep-gBacF_5xA7FPcKEdR0YRT5RmiPVIffL4tJ036xiFbw=w420-rw",
   "tag" : ""
   }
   ,
   {
-  "title" : "အမွှေစိန်လေး မာရှာ",
+  "title" : "Masha & The Bear",
   "link" : "https://raw.githubusercontent.com/XCProject19/mf-masha/master/",
-  "cover" : "https://www.syfy.com/sites/syfy/files/styles/1200x680_hero/public/2020/02/naked-cartoon-characters.jpg",
+  "cover" : "https://i.ytimg.com/vi/ISyIj4V3W-0/maxresdefault.jpg",
   "tag" : ""
   }
   ,
       {
-  "title" : "ဘိုဘိုကာတွန်းစုစည်းမှု",
+  "title" : "Myanmar Bobo Collection",
   "link" : "https://raw.githubusercontent.com/XCProject19/mf-bobo/master/",
-  "cover" : "https://i.pinimg.com/originals/36/0c/b1/360cb14dd5692cc862b02fd9beab01a6.jpg",
+  "cover" : "https://i.ytimg.com/vi/UuRzDg1kZLU/hqdefault.jpg",
   "tag" : ""
   }
  
