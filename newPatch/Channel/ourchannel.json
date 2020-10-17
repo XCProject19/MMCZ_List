@@ -1,0 +1,61 @@
+{
+  "allchannel" : [
+ {
+  "title" : "Myanmar Fairy Tales",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/mmfairytales/",
+  "cover" : "https://lh3.googleusercontent.com/oEqejFYsTmjTNZPUHOlAYep-gBacF_5xA7FPcKEdR0YRT5RmiPVIffL4tJ036xiFbw=w420-rw",
+  "tag" : ""
+  }
+  ,
+  {
+  "title" : "Pink Panther",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/PinkPanther/",
+  "cover" : "https://hyperpix.net/wp-content/uploads/2222/08/pink-panther-logo-font-download.jpg",
+  "tag" : ""
+  }
+    ,{
+  "title" : "Sunny Bunnies",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/SunnyBunnies/",
+  "cover" : "https://i.ytimg.com/vi/HMkaN1NaCno/maxresdefault.jpg",
+  "tag" : ""
+  }
+   ,{
+  "title" : "Scooby-Doo Collection",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/ScoobyDoo/",
+  "cover" : "https://metvcdn.metv.com/KbQ83-1551727016-2412-blog-scooby%20doo%20voice.jpg",
+  "tag" : ""
+  }
+   ,
+ 
+  {
+  "title" : "Masha & The Bear",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/Masha/",
+  "cover" : "https://i.ytimg.com/vi/ISyIj4V3W-0/maxresdefault.jpg",
+  "tag" : ""
+  }
+  ,
+{
+  "title" : "Myanmar Bobo Collection",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/BoBo/",
+  "cover" : "https://i.ytimg.com/vi/UuRzDg1kZLU/hqdefault.jpg",
+  "tag" : ""
+  }
+ , {
+  "title" : "ချစ်စရာကာတွန်းကားများ",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/Animation/",
+  "cover" : "https://i.ytimg.com/vi/HfEVEGf1A8Q/maxresdefault.jpg",
+  "tag" : ""
+  }
+  ,{
+  "title" : "Lego Car Cartoon",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/Lego%20Car%20Cartoon/",
+  "cover" : "https://i.ytimg.com/vi/4Y9ei-Qedng/maxresdefault.jpg",
+  "tag" : ""
+  },{
+  "title" : "Minions - banana",
+  "link" : "https://raw.githubusercontent.com/XCProject19/MMCZ_List/master/newPatch/OurChannels/minions/",
+  "cover" : "https://i.ytimg.com/vi/TjAg-8qqR3g/maxresdefault.jpg",
+  "tag" : ""
+  }
+  ]
+  }

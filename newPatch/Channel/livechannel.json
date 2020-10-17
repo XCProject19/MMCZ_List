@@ -1,0 +1,119 @@
+{
+  "allchannel" : [
+   {
+  "title" : "Cartoon Network(TH)",
+  "link" : "https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8",
+  "cover" : "https://raw.githubusercontent.com/aungwanakyimal/iptvjson/master/Special/CartoonNetwork.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Cartoon Network(Global)",
+  "link" : "http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8",
+  "cover" : "https://raw.githubusercontent.com/aungwanakyimal/iptvjson/master/Special/CartoonNetwork.png",
+  "tag" : ""
+  },
+  {
+  "title" : "DISNEY XD(TH)",
+  "link" : "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
+  "cover" : "https://raw.githubusercontent.com/stytv/download/master/logo/DISNEYXD.png",
+  "tag" : ""
+  },
+  {
+  "title" : "3ABN KIDS TV",
+  "link" : "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8",
+  "cover" : "https://i.ibb.co/fGjHxh6/3-ABN-KIDS-TV.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Akaram Kidz",
+  "link" : "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8",
+  "cover" : "https://i.ibb.co/JkT7vBV/Akaram-Kidz.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "ch 23 החינוכית",
+  "link" : "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8",
+  "cover" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png",
+  "tag" : ""
+  },
+  {
+  "title" : "GEM Kids",
+  "link" : "http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8",
+  "cover" : "https://i.ibb.co/482Msgz/GEM-Kids.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "Hodhod",
+  "link" : "http://51.158.184.234/hls/stream.m3u8",
+  "cover" : "https://i.ibb.co/HGVqMkV/Hodhod.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "IBC Kids",
+  "link" : "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8",
+  "cover" : "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Kuriakos Kids",
+  "link" : "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8",
+  "cover" : "https://i.imgur.com/tfc2BYM.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Lale",
+  "link" : "http://stream.atr.ua/lale//live/index.m3u8",
+  "cover" : "https://i.ibb.co/G2mrmTb/Lale.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "Persiana 3 JUNIOR",
+  "link" : "http://51.158.74.129/hls/stream.m3u8",
+  "cover" : "https://i.imgur.com/o9Gu7XX.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Spacetoon",
+  "link" : "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+  "cover" : "https://i.imgur.com/RzPOwqI.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Taha TV",
+  "link" : "https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8",
+  "cover" : "https://i.imgur.com/wOxnItQ.png",
+  "tag" : ""
+  },
+  {
+  "title" : "TCT Kids",
+  "link" : "https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8",
+  "cover" : "https://i.ibb.co/WPrkySD/TCT-Kids.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "TRT Cocuk",
+  "link" : "https://tv-trtcocuk.live.trt.com.tr/master.m3u8",
+  "cover" : "https://i.ibb.co/c1zC46V/idYZDje.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "Малятко TV",
+  "link" : "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8",
+  "cover" : "https://i.ibb.co/MMvvy0k/maliatko-tv.png",
+  "tag" : ""
+  },
+  {
+  "title" : "Toon Max TV",
+  "link" : "http://210.210.155.35/qwr9ew/s/s50/index2.m3u8",
+  "cover" : "https://i.ibb.co/4NTwyh8/Toon-Max-TV.jpg",
+  "tag" : ""
+  },
+  {
+  "title" : "哈哈炫动卫视",
+  "link" : "http://210.210.155.35/qwr9ew/s/s50/index.m3u8",
+  "cover" : "https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png",
+  "tag" : ""
+  }
+  
+  ]
+  }
