@@ -1,0 +1,1021 @@
+{
+  "allmovie" : [
+  {
+        "cover" : "https://1.bp.blogspot.com/-VjDkjC1rnE0/XgJ-0Q-HCrI/AAAAAAAACss/V_GNC_ONqVoP5TjVwMDfvokUNoDr08KHQCLcBGAsYHQ/s300/1.jpg",
+        "length" : "39:00",
+        "title" : "Masha and The Bear (1)",
+	"genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1DJmlaGw9k10Vw9DjraLt5tzkRJ6cTrE5?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-3Ega6CY6br4/XgJ-4u17H8I/AAAAAAAACtQ/ZdO4x-Ptpugn-Xpux9J3Mkkgpm5ZomiTACLcBGAsYHQ/s300/2.jpg",
+        "length" : "39:02",
+        "title" : "Masha and The Bear(2)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/18ffOTgyEQilYrtOapVZ_rNeo3JqIUY_w?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-93fjZiyTuco/XgJ-9K3bqDI/AAAAAAAACt8/izTMPxVuS387Lp6tmEyBw2p6rl_woudMQCLcBGAsYHQ/s300/3.png",
+        "length" : "57:37",
+        "title" : "Masha and The Bear(3)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1-I0NpSOoBUMebiDo2qv7dx5l4U1NLGbk?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-TdzasE4q-GI/XgJ--w_WegI/AAAAAAAACuQ/bb6F1QWCppUMmrKRSa57XeQpPwBereZTQCLcBGAsYHQ/s300/4.png",
+        "length" : "32:000",
+        "title" : "Masha and The Bear(4)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1ysUqumuXH1dmKSh-OVTJUlCCDzuGc61S?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-hmuBCPvFfD0/XgJ-_WONPbI/AAAAAAAACuU/_SVpcA4BRk0jv1Xwa5FK0J2qK1y5PZs9gCLcBGAsYHQ/s300/5.jpg",
+        "length" : "38:13",
+        "title" : "Masha and The Bear(5)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1x5-aFNCaAc6UdVU_5oe_yN3lTrMM8p2k?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-dciEmmFaY1k/XgJ-_-ajcAI/AAAAAAAACuY/lMpBvPfZYdICIcaij8zl7G1Xf0BCuig7wCLcBGAsYHQ/s300/6.jpg",
+        "length" : "57:45",
+        "title" : "Masha and The Bear(6)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1EQJS4qH85y2s300GJnK4xJ4RYUGzxHcR5w?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-89N4tBUft_I/XgJ_AMd7gVI/AAAAAAAACuc/aPWLcxOWeUMnHXtpsnc7IlDNQ-0HFB7XgCLcBGAsYHQ/s300/7.jpg",
+        "length" : "41:26",
+        "title" : "Masha and The Bear(7)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1GvF3wMx8822xhpymuNxLEadFJ2vIHDpU?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-R6DUwJ8QhEA/XgJ_Bk84bJI/AAAAAAAACug/D_Qqy8CMoAomkpNuPZ9Oys6WbDAGE0KKQCLcBGAsYHQ/s300/8.jpg",
+        "length" : "32:28",
+        "title" : "Masha and The Bear(8)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1Nz612FbgnicAB6y7q1pE1Dmqp6EzlDj6?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-bAYm1dV4ors/XgJ_CPNeVSI/AAAAAAAACuk/0TYvpPF_o_oajMRoh7zXD95AkcASXY_BgCLcBGAsYHQ/s300/9.jpg",
+        "length" : "32:27",
+        "title" : "Masha and The Bear(9)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1joUdhV1u_aOsCLGsQXHxsSq9YwtuqQv5?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-CaYGcvQTZhQ/XgJ-z0E65VI/AAAAAAAACsk/G7zbxTnDyJUMWvkP6iCZs3007TUmg8blcBgCLcBGAsYHQ/s300/10.jpg",
+        "length" : "32:07",
+        "title" : "Masha and The Bear(10)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1AVYCyiP18xJ0Ve2q-1pZ3Uf8Gi6lcpUW?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-qBwVrOJ5kqY/XgJ-0JW8hMI/AAAAAAAACso/CxrwmXykgDETgtxsL2yfaBTLiZBMcpP6ACLcBGAsYHQ/s300/11.jpg",
+        "length" : "57:50",
+        "title" : "Masha and The Bear(11)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1P2lxzPg1d3mgfwz0xpL_OKGr1TeSI5sg?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-SHqzVT90NcE/XgJ-1Wc84PI/AAAAAAAACsw/nLgGPBkhrEkrnXL2MLjNShy3yFs7M-s4gCLcBGAsYHQ/s300/12.jpg",
+        "length" : "38:10",
+        "title" : "Masha and The Bear(12)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/157GLx9eLB0JBK9E1lK7meuGpgPqlFM0W?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-tOfLX8pz39U/XgJ-1-r6QQI/AAAAAAAACs300/6n8_8cIGdFAXILK7u6lGY2KNT09p9D16gCLcBGAsYHQ/s300/13.jpg",
+        "length" : "31:57",
+        "title" : "Masha and The Bear(13)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1YbMz89rHWaf2tvuxEs10am11T8gbN_oF?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-TnOFgLOebbI/XgJ-1_YIxWI/AAAAAAAACs4/LpfEG8K9TKAo9rduxJDC-7FjaIBvTDBNACLcBGAsYHQ/s300/14.jpg",
+        "length" : "38:40",
+        "title" : "Masha and The Bear(14)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1TwUM5uPiAX-pCatDHTVUjfTRlDX9Z7R3?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-lsbFhG1-B14/XgJ-2XjtR3I/AAAAAAAACs8/ca5dT3b7tJcxcrdPn1Mm7QD_rN88UH40gCLcBGAsYHQ/s300/15.jpg",
+        "length" : "32:21",
+        "title" : "Masha and The Bear(15)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1R1J3IcZVm9BroHVHfzKrAmPDTFY3NQiM?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-UVyytgaAYM4/XgJ-3OcNYDI/AAAAAAAACtA/eakVDujIhxs8tYBD21hrVXmhZIBsxmkzwCLcBGAsYHQ/s300/16.jpg",
+        "length" : "32:25",
+        "title" : "Masha and The Bear(16)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1evoUNiiU7k45ZC2sb3F87wIDqvmTg_kC?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-MgnNofeJoFk/XgJ-3M__SqI/AAAAAAAACtE/upJnVdSMNQkyforDhOGJrRpfZ510-IO4QCLcBGAsYHQ/s300/17.jpg",
+        "length" : "45:21",
+        "title" : "Masha and The Bear(17)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1o4wukiglCCmYQBLYsXlPZ0JcvIZzvvY1?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-2Wo0wyurrWc/XgJ-3zBYBCI/AAAAAAAACtI/BoqJ152qOFMmMnNK4CZb6UaUszU3rMxfwCLcBGAsYHQ/s300/18.jpg",
+        "length" : "58:28",
+        "title" : "Masha and The Bear(18)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1FEN-NS5WT6O8Awpk15jiAa0v6K_MEGPy?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-Y4jaexB4yyw/XgJ-4aA9ygI/AAAAAAAACtM/1BmLSk8Ojlc0tsAnoxiFUkx3hipk8m_2wCLcBGAsYHQ/s300/19.jpg",
+        "length" : "48:07",
+        "title" : "Masha and The Bear(19)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1xSv14k67A4bwGjt2yYOzzNe0yZHc3uGv?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-oFv2pnbd8PQ/XgJ-4_g4CEI/AAAAAAAACtU/21F3dX8UKf0m6z4VG-6RzGG_9u-X_P-sQCLcBGAsYHQ/s300/20.jpg",
+        "length" : "45:22",
+        "title" : "Masha and The Bear(20)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1Ox3vo1FsW9d30F04HIAh7uI1ZVvTWByT?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-YSLsy-TINsA/XgJ-5urpBII/AAAAAAAACtY/amHfaDBflGUg1uwXfYbAB6wZm_b70UZrwCLcBGAsYHQ/s300/21.jpg",
+        "length" : "57:33",
+        "title" : "Masha and The Bear(21)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1PVSVcrOqd5jCXfDbSrFoC1NaqnjPXqhy?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-0Ix0EIMFIvw/XgJ-52gWYJI/AAAAAAAACtc/kauEl0vKZnottPkqVLyr8aOtY4ZUoL-1QCLcBGAsYHQ/s300/22.jpg",
+        "length" : "32:44",
+        "title" : "Masha and The Bear(22)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1fBIX4wg5gfG7bUL09W_fYI4_LGsY8G7a?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-sHMMezMaV8U/XgJ-6CizX7I/AAAAAAAACtg/GUL7zpeMGGUrsHfzz2HCl8qySXiM2ApzQCLcBGAsYHQ/s300/23.jpg",
+        "length" : "45:02",
+        "title" : "Masha and The Bear(23)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1WqqsJNfZtRZim_f3VmtVSj22aW-PhP8o?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4  "
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-3P7POVPVl0k/XgJ-6tc9eUI/AAAAAAAACtk/NrLpAErb0nEYdZCTxpJaYTbAQaMD0fB1ACLcBGAsYHQ/s300/24.jpg",
+        "length" : "33:10",
+        "title" : "Masha and The Bear(24)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/14K-A_bji_k5gxsHI2W6_gQ8TmLr5bdWu?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-euF0VlIzVBc/XgJ-7fQ4SjI/AAAAAAAACto/BgFzGcwmCPgaBiq7GYeW9c25QhItO6Z1gCLcBGAsYHQ/s300/25.jpg",
+        "length" : "45:57",
+        "title" : "Masha and The Bear(25)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1A3ts65Db6tHzIz0Qdg-gkPzYpaYpVOZN?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4  "
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-oJ6OebYJfHA/XgJ-7k72POI/AAAAAAAACts/GMJ8R7m9suIjIpgsyJGvlRkSlNgpTtHtwCLcBGAsYHQ/s300/26.jpg",
+        "length" : "43:44",
+        "title" : "Masha and The Bear(26)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1pKB72b9x-rGJWGgwNZEI0B3M410BMG-d?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-wCuay-Ii_1g/XgJ-75DP0LI/AAAAAAAACtw/GxQeb5eshzkr95QYnSYxiriaM1MGJlqqQCLcBGAsYHQ/s300/27.jpg",
+        "length" : "31:47",
+        "title" : "Masha and The Bear(27)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1COy2x1l3NtVODHJysX5x9Fc-7FNHNPiA?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-rlMeRPqqkIA/XgJ-8U31ryI/AAAAAAAACt0/nV7vi48j7tQBlijJJ2e9sxVUA4KvLZQiACLcBGAsYHQ/s300/28.jpg",
+        "length" : "31:44",
+        "title" : "Masha and The Bear(28)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1nWKhhazt9OjhT7gB8yjOk3j8ohL1jbMN?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-QFf3Q5UJ0OA/XgJ-8lRh1_I/AAAAAAAACt4/glJBAPn1rawaS4ELzv9_YICVT6ycZqVfACLcBGAsYHQ/s300/29.jpg",
+        "length" : "46:01",
+        "title" : "Masha and The Bear(29)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1tJDQczhGGwADgwpwH1PtqXnxHHNmtpVE?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-y_2gbPZqxZM/XgJ-9oobtfI/AAAAAAAACuA/ghADz9pw84cy1bO-FN7o-s5mW1k0KhXewCLcBGAsYHQ/s300/30.jpg",
+        "length" : "31:55",
+        "title" : "Masha and The Bear(30)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1QNAeFYT-4ryDgcvFKS9CDHlgGcU4jZ2R?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-g8omd8zga6E/XgJ-956khjI/AAAAAAAACuE/IcwANlRRd9EUfwk_wUYgRIVRWPT06I0vgCLcBGAsYHQ/s300/31.jpg",
+        "length" : "51:22",
+        "title" : "Masha and The Bear(31)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1KF8lmRroTJhMgHAXGGBykN6CjjhhUrqB?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-UKirX1pNyX8/XgJ--JF3HvI/AAAAAAAACuI/T-jotklfii8T9jwFmbgY-xPh9z83DiA2QCLcBGAsYHQ/s300/32.jpg",
+        "length" : "44:46",
+        "title" : "Masha and The Bear(32)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1JWJlVARRPq90yCek3wlVRQxfbL5_yjDV?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-i30fNAv56Zg/XgJ--s3SUNI/AAAAAAAACuM/om2nnLryldgAzwi284iUgp3SE4zDEKVXgCLcBGAsYHQ/s300/33.jpg",
+        "length" : "39:31",
+        "title" : "Masha and The Bear(33)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/18je1RW6XTXyX3LluZKGmDhxACPWF2Kmr?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-zAPct56QahQ/XgMBKYYONUI/AAAAAAAACvM/XJkSrI-_pV09Hk8WCWrHMvAEVmSNtTKZACLcBGAsYHQ/s300/34.jpg",
+        "length" : "38:58",
+        "title" : "Masha and The Bear(34)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1F4BnaUNp2AV0PZ_hIGbwsRH95VeTGMsp?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-iCrQsKZ0c2k/XgMBKRHi2QI/AAAAAAAACvI/XDiKaDBXdNsTqJcbo42UYCcpMn_okTxKACLcBGAsYHQ/s300/35.jpg",
+        "length" : "38:56",
+        "title" : "Masha and The Bear(35)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/14k9xZY-hzdV3GelraBLcVKhMZmJHrtXp?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-glOsEMITv2M/XgMBKDcUF3I/AAAAAAAACvE/sqo7VbljFdMnNUUoR94srPjsqvHQdw4KgCLcBGAsYHQ/s300/36.jpg",
+        "length" : "44:52",
+        "title" : "Masha and The Bear(36)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/157E-Rd-nnD6HlNSu3nk6m0bBxN4XZiCo?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-k_LKbY9wfC4/XgMBMUAE16I/AAAAAAAACvU/JkxD85WKKoA1xY3AsPxVp-gAOPqUDsUnACLcBGAsYHQ/s300/37.jpg",
+        "length" : "36:43",
+        "title" : "Masha and The Bear(37)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1-r2mV_nts29J4PJ2Yzop7vfaX8mIEikl?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-cdsbuKJeUUE/XgMBMaMaQwI/AAAAAAAACvQ/QeaHuXlKveUBMRriuqxO0XJBp0bgyGkLgCLcBGAsYHQ/s300/38.jpg",
+        "length" : "32:25",
+        "title" : "Masha and The Bear(38)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1Y9UFaALDZ8SCrxv8f84W6JMv8uWECjEh?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-HiXaJ54XMQI/XgMBMgpMJ1I/AAAAAAAACvY/9eaX2feyLfsddZpqDOmcHraMrbeaSMqkQCLcBGAsYHQ/s300/39.jpg",
+        "length" : "34:32",
+        "title" : "Masha and The Bear(39)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1zWPB8MZIwr-gbqD8BhhMshJh6-uoKXCu?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-k8mNkPSPvRk/XgMBNkNthFI/AAAAAAAACvc/rBFXj-fGAXsrWOflF7_mRj6mmlX_DqBvACLcBGAsYHQ/s300/40.jpg",
+        "length" : "32:17",
+        "title" : "Masha and The Bear(40)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/161Jxdoz_TAPJg1u2u7j3V5xo2cj9Rfih?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-MlKM4JyhNE4/XgMBNmTuAyI/AAAAAAAACvg/dvNu2KYfWVY2m1HQ63yyp8jZTGnbQ9fpQCLcBGAsYHQ/s300/41.jpg",
+        "length" : "38:44",
+        "title" : "Masha and The Bear(41)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1VXFD5N9ODrIEjyCWaUazGZ98QI-9hCVl?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-UEmtix13-XY/XgMBOIHqQCI/AAAAAAAACvk/_f5Z0c5L9qglHadNTrhSb9iRLvzuQSEJQCLcBGAsYHQ/s300/42.jpg",
+        "length" : "39:35",
+        "title" : "Masha and The Bear(42)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1tEVy3jvxFfHPIy0BdnWknytYIhiSh-rE?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-KhgFEZ-zQaQ/XgMBOyx7-FI/AAAAAAAACvo/LY34pJkk1IYoJKLg6VPtGYZ5lSiQ0-OiACLcBGAsYHQ/s300/43.jpg",
+        "length" : "38:13",
+        "title" : "Masha and The Bear(43)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1eJooPABD3VHkdgzFTbYjuELuaxypLe65?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-TDGUzWy7mx4/XgMBPTbsNqI/AAAAAAAACvs/3ypRsmhPWXoPXO346DRlhQCDlnGsXEjDACLcBGAsYHQ/s300/44.jpg",
+        "length" : "41:37",
+        "title" : "Masha and The Bear(44)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/11UvNYCNQny_pKZA92KCTtBmx96rFgVpO?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-yShz34BnH5A/XgMBPsxOs1I/AAAAAAAACvw/mlTE4lUQXNc6rCUHIWTQjrm-E9EBJa0MACLcBGAsYHQ/s300/45.jpg",
+        "length" : "32:39",
+        "title" : "Masha and The Bear(45)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1JXHFV1PbdgxVFcMl0oVBVPBoP8jdou8F?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-fU9jaZT92m4/XgMBQHOn3_I/AAAAAAAACv0/zwkzm498x8wW1NxsUuChiPqE7SkaQDj4wCLcBGAsYHQ/s300/46.jpg",
+        "length" : "45:21",
+        "title" : "Masha and The Bear(46)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1tlQeKJo74y9vuvnRPrfy9AnWYGC3TKid?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-CoYl52JrTag/XgMBQd89mEI/AAAAAAAACv4/KWB1xugx8mkuT9jam7IY4vZmCjQw-uuBgCLcBGAsYHQ/s300/47.jpg",
+        "length" : "38:56",
+        "title" : "Masha and The Bear(47)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1rDzO1GNMl0Om_394r5qpPCZFtFd-QDx4?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-EYWfP9X7al4/XgMBQ61KjhI/AAAAAAAACv8/DqpYuTf0IskVTi4lz64KVWR4DmAbczdXwCLcBGAsYHQ/s300/48.jpg",
+        "length" : "32:33",
+        "title" : "Masha and The Bear(48)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1virGOUR4TbEZNOMgCWt3Ar-1dc7v3Brj?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-oGEXLsY6ryw/XgMBRMoTGmI/AAAAAAAACwA/aAhxU7MHmMcNzftzXSPq78zvXSfv9r67QCLcBGAsYHQ/s300/49.jpg",
+        "length" : "46:32",
+        "title" : "Masha and The Bear(49)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1KtclY_os6mdy67E1up1HW4nyP3_g5n55?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-nXlWA6kIxtA/XgMBRY7MsAI/AAAAAAAACwE/dl_C7XAFMJ0MUpwMWL9b7w8clAPgxBO-gCLcBGAsYHQ/s300/50.jpg",
+        "length" : "32:22",
+        "title" : "Masha and The Bear(50)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1wyga6Y0mLMiW6WNTPKryeC-P-XJxq-UM?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-UqVT_wUNxLQ/XgMBR5pESkI/AAAAAAAACwI/x_2-n3Ea4AA-iQNR3jZ7sUdJAOkoyj2tQCLcBGAsYHQ/s300/51.jpg",
+        "length" : "45:31",
+        "title" : "Masha and The Bear(51)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/13sX-yqLC4R4bF7enHjQ95GxOqE5VDaEs?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-SWK6ct_9kVM/XgMBSD58X9I/AAAAAAAACwM/-5HfBFdpmdw-YsW6TJLu1zWw8vLQ0ELGwCLcBGAsYHQ/s300/52.jpg",
+        "length" : "45:39",
+        "title" : "Masha and The Bear(52)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/12yoMT6skwOfPEGdIcUXMB09or4PgnHUC?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-w72-7WO-mgM/XgMBSRL4glI/AAAAAAAACwQ/l-q8UPmdL04_uU-Rg4qQT48J1jYm-0JLwCLcBGAsYHQ/s300/53.jpg",
+        "length" : "40:17",
+        "title" : "Masha and The Bear(53)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1NAin4TJIjryU2TGA7YR85BY5PE0iuKON?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-HSGyoEebOY0/XgMBSy0KqCI/AAAAAAAACwU/lC7ea2JiN0Et72UKbg-0CeoO5KbXlYhNgCLcBGAsYHQ/s300/54.jpg",
+        "length" : "46:16",
+        "title" : "Masha and The Bear(54)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1es-tlDe1KPcp9E6i0vQF_K11VQSta_Rr?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-KNEG2a-Lxg8/XgMBTKKtgEI/AAAAAAAACwY/GUOBLUaqKWor1sLIJro4RUHnH9F1mL0xQCLcBGAsYHQ/s300/55.jpg",
+        "length" : "51:14",
+        "title" : "Masha and The Bear(55)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/14GjtiZPnu2fKAHDVOUbZNcykZZgpHXN8?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-uC6G2O3kOFs/XgMBTWYq_PI/AAAAAAAACwc/FGm2yV0TbtU67OqPkDySfW3N-nUkcqFgwCLcBGAsYHQ/s300/56.jpg",
+        "length" : "47:29",
+        "title" : "Masha and The Bear(56)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1fxng3Rc8wlIL0i1WzFx85F0UMOqMMaHa?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-wpxzqz1klbY/XgOjMVu_X4I/AAAAAAAAC7Y/wVj1jUFXEqM97yYo2ME6lkIhtRepNrcWwCLcBGAsYHQ/s300/57.jpg",
+        "length" : "32:29",
+        "title" : "Masha and Bear(57)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1bSqHFgmYTlMG4SYjqvYP0jpxkAgMAMht?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-vEaTGRtPjdg/XgOjNH_7iJI/AAAAAAAAC7c/zebLY2E3vBIrN2iWhdCcBFk9bzJxe4NSQCLcBGAsYHQ/s300/58.jpg",
+        "length" : "38:56",
+        "title" : "Masha and Bear(58)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1ckZAIfUI8QOz6XxCDVtYHjd2uhuQ4E-U?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-t9dzknZIyR8/XgOjN0fCUQI/AAAAAAAAC7g/y-gwn50014Iiz-LvbrzDjn4httIa0MJVACLcBGAsYHQ/s300/59.jpg",
+        "length" : "32:27",
+        "title" : "Masha and Bear(59)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1WsFa-og85Lf_NFtQhCBdxQRvU2kINR3J?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-wMzqbnzpABs/XgOjOtO6_4I/AAAAAAAAC7k/aGR0RqfSBvUAxQlKgQbZnWBTqmeHNaVyACLcBGAsYHQ/s300/60.jpg",
+        "length" : "59:39",
+        "title" : "Masha and Bear(60)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1KgdnERrTPSDK-kpB6VSYeQnODtOx52CL?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-Xfj-lDDxMrw/XgOjPcZPPyI/AAAAAAAAC7o/xnUj5AAWSXc7omLZSkjN0yHQc97hekVSgCLcBGAsYHQ/s300/61.jpg",
+        "length" : "32:21",
+        "title" : "Masha and Bear(61)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/15qCX-qLwsj_qnZdEX62Q_AMHKkBg_Drw?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-5uc3wkfSzVA/XgOjPpbquDI/AAAAAAAAC7s/FjiM3RqMa3IaAPAsdc4vRmqkkkCxZ-NlACLcBGAsYHQ/s300/62.jpg",
+        "length" : "38:37",
+        "title" : "Masha and Bear(62)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/17jshJsyv3lsR8p1NCoJGgHZPpJNbxcRA?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-dh7P0nByct0/XgOjP91yBzI/AAAAAAAAC7w/o8pwDtgBDNILVZsNoPul9Ved1s8rHDPqgCLcBGAsYHQ/s300/63.jpg",
+        "length" : "45:28",
+        "title" : "Masha and Bear(63)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1XdxbgVECGpIoTwCGYJXcgQsUf_ElsNFb?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-DJZ1fE76k94/XgOjRQAue-I/AAAAAAAAC70/FyhDW2qBxlENOPtnM8oio1y_gP_JVg8OwCLcBGAsYHQ/s300/64.jpg",
+        "length" : "46:37",
+        "title" : "Masha and Bear(64)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1HbfUiz_muMa0AZFr49rMPUq-Hmt27PuA?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-_CiG4PQI8YU/XgOjRsVZYPI/AAAAAAAAC74/lu8yHsCoXVo5TpenSTY3vAE0DDuDo3lIwCLcBGAsYHQ/s300/65.jpg",
+        "length" : "46:29",
+        "title" : "Masha and Bear(65)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1HyYRzsd0upNVa85aA1mj0YuVJXx5cXOO?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-eNxJhGxKQvU/XgOjSbRoOGI/AAAAAAAAC78/D_PvWe4mjFYILE_Va1dnvG9h4aMG33_WgCLcBGAsYHQ/s300/66.jpg",
+        "length" : "46:24",
+        "title" : "Masha and Bear(66)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1ayKX0VUGDLjX85RZIyGk5Jrei-snJi1g?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-bFo1Wmna640/XgOjSyORvfI/AAAAAAAAC8A/Ri77noLswoM11XiCiejweTHhw0hz21QewCLcBGAsYHQ/s300/67.jpg",
+        "length" : "36:19",
+        "title" : "Masha and Bear(67)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1mT59ZH1BiRLNYnEoQQS69Jesw7XxQo1J?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-hVNc119IWHw/XgOjTbYQFHI/AAAAAAAAC8E/AvaKkqw1WscXjQudwxyexe4ws2pgB9jXgCLcBGAsYHQ/s300/68.jpg",
+        "length" : "32:21",
+        "title" : "Masha and Bear(68)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1Fk6mKe3vOSijTagcFXt0MKflcdi5ovP4?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-vrmBi7tIB9g/XgOjTotq2TI/AAAAAAAAC8I/QctJY_9CQUcMMZwoZI2YTuLPzBvMLEZMwCLcBGAsYHQ/s300/69.jpg",
+        "length" : "33:10",
+        "title" : "Masha and Bear(69)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1u1VRYVt6t7f3OT38UGyTSE4XwJdQ-Eax?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-NaqcHJ5616Y/XgOjUBGi4AI/AAAAAAAAC8M/hOKx8aIdHHc7e_IsP7mvaszxGRwdQe0QgCLcBGAsYHQ/s300/70.jpg",
+        "length" : "38:11",
+        "title" : "Masha and Bear(70)",
+        "genre" : "masha",
+        "video" : "https://www.googleapis.com/drive/v3/files/1cL-UFFnna7wSrdwGrVazQFciOdeM-54G?alt=media&key=AIzaSyB5un0FFgDlOKxLefJjC1hDinb8ksUKlc4"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-ZX1IGqYNBtQ/XgOjU2p5wzI/AAAAAAAAC8Q/E3y5i3S2QCcO8-oC8jiLQXoA9wytmkkIQCLcBGAsYHQ/s300/71.jpg",
+        "length" : "32:35",
+        "title" : "Masha and Bear(71)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/5plqn5bbuqe7hel/Masha+and+the+Bear+🔧+What's+inside+🐧🤣+(Episode+81)+PREMIERE+💥+New+season!+🎬.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-TJ94ZqGUCU8/XgOjVHlkOyI/AAAAAAAAC8U/HfGY31Plm4sx4YeneghFSBfx_510wb6WACLcBGAsYHQ/s300/72.jpg",
+        "length" : "32:20",
+        "title" : "Masha and Bear(72)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/cebx9lnv15qj1nu/Masha+and+the+Bear+👽🚀+We+Come+In+Peace!+🚀👽+(Episode+65).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-WJqktHBZmkU/XgOjW5ept1I/AAAAAAAAC8Y/IRm-0a3S-aIKqjhYL2rVgYV8oHRY3Z9yACLcBGAsYHQ/s300/73.jpg",
+        "length" : "32:19",
+        "title" : "Masha and Bear(73)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/obyw6er5jm57wtt/Masha+and+the+Bear+🐻+Tee+for+three+⛳+(Episode+66)+New+episode!+💥.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-L-a8NAqHfps/XgOjW_jffWI/AAAAAAAAC8c/0nhQdSlOyCcrFdqney1aEQoGJEgo0lT7QCLcBGAsYHQ/s300/74.jpg",
+        "length" : "58:36",
+        "title" : "Masha and Bear(74)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/c8ltq7mi4jonm9b/Masha+and+the+Bear+🐎🤠+Once+in+the+Wild+West+(Masha's+Songs,+Episode+10)+🤠🐎+N.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-3Cldt8J11LU/XgOjXt_-qsI/AAAAAAAAC8g/UV14D152HoYeuBEtWA6rHzyZcCuIjIoEACLcBGAsYHQ/s300/75.jpg",
+        "length" : "32:11",
+        "title" : "Masha and Bear(75)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/bf44jmmo8wqbag6/NEW+EPISODE+💥+Masha+and+the+Bear+✈️🌄+Bon+voyage+🌄✈️+(Episode+37).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-y88IBdN4tPw/XgOjYPi18RI/AAAAAAAAC8k/M761oi8iGFs3gAqSoANLq9iPpE6YXSxkgCLcBGAsYHQ/s300/76.jpg",
+        "length" : "45:44",
+        "title" : "Masha and Bear(76)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/4mk9ojyirppvss2/Masha+and+the+Bear+🎭💃+All+the+world's+a+stage+💃🎭+(Episode+76).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-5dg7AfVTEYE/XgOjYQiJHCI/AAAAAAAAC8o/Wxcdt9YlDdYYwsX4lDqIE-eYGrkAfafQwCLcBGAsYHQ/s300/77.jpg",
+        "length" : "32:35",
+        "title" : "Masha and Bear(77)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/kc5gx16guj46yge/Copy+of+Maşa+İle+Koca+Ayı+-+💫+Maşa+ile+Sihir+💫+-+Masha+and+the+Bear.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-2BGFyof2muM/XgOjZNFHu1I/AAAAAAAAC8s/El8jCFC921spa6Lpy1r6h7L4yHMNBRn0gCLcBGAsYHQ/s300/78.jpg",
+        "length" : "33:12",
+        "title" : "Masha and Bear(78)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/t6ju89lgq2drt4s/Copy+of+Maşa+İle+Koca+Ayı+-+🎨+Maşa+Nın+Hobileri+🎲+-+Masha+and+the+Bear+🎯.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-ZB4sv72HiCw/XgOjaYZf0tI/AAAAAAAAC8w/3vxd4fq6GVsFa8EhSZSlRG9-KTAnY66nQCLcBGAsYHQ/s300/79.jpg",
+        "length" : "33:15",
+        "title" : "Masha and Bear(79)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/f4ucq2mmw1hssgj/Copy+of+Masha+und+der+Bär+-+👼+Vater,+Mutter,+Kind+🍼.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-_VBArM9VyBE/XgOjayDnp3I/AAAAAAAAC80/1by83DL1wkYvGFPxSqoVLCzMXhP475X5ACLcBGAsYHQ/s300/80.jpg",
+        "length" : "32:48",
+        "title" : "Masha and Bear(80)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/4tosfnbf5sbviwc/Copy+of+Masha+e+Orso+-+🌲+Segreti+della+foresta!+🌴🎁.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-wddjaiAp0HQ/XgOjbYDQXtI/AAAAAAAAC84/briFXWrnHZ4NMdZon4rZT1z6wQf3JV_jgCLcBGAsYHQ/s300/81.jpg",
+        "length" : "52:58",
+        "title" : "Masha and Bear(81)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/rt1wzk544j6cxfv/Copy+of+Masha+and+the+Bear+💖🎂+Chocolate+Cupcake+Day+🎂💖+Chocolatiest+cartoon+collection+for+kids+🎬.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-gJqqryW3O08/XgOjb-wgaFI/AAAAAAAAC88/W8IYdrPgNjYYcqpeJ98_2uituQmb_ErqACLcBGAsYHQ/s300/82.jpg",
+        "length" : "32:25",
+        "title" : "Masha and Bear(82)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/3qczr7qrwf7uv5m/Copy+of+990.Маша+и+Медведь+—+Машины+хобби!+🎨++Сборник+лучших+мультфильмов+про+Машу!+🎬.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-Eq63XYJW6ZE/XgOjc6blZ-I/AAAAAAAAC9A/j0ExJFxT8n4wPohccT-1H0UGX03pEPMqgCLcBGAsYHQ/s300/83.jpg",
+        "length" : "32:07",
+        "title" : "Masha and Bear(83)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/qmylrbjbjelsozr/Copy+of+986.Masha+e+Orso+-+La+raccolta+dei+cartoni+animati+1+(50+minuti)+I+migliori+cartoni+animati+per+bambini!.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-1zyP_I96O0E/XgOjdWgFuQI/AAAAAAAAC9E/RIlRAmnHTqkskcEHhAGrSB_uH8wjnENogCLcBGAsYHQ/s300/84.jpg",
+        "length" : "40:43",
+        "title" : "Masha and Bear(84)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/6nugf092tox9m6y/Copy+of+981.Маша+та+Ведмідь-+Кращі+серії+про+спорт+-+всі+серії+підряд+(Masha+and+the+Bear).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-Ew_ZvaJbMp0/XgOjeDMzmWI/AAAAAAAAC9I/3nkFdGY9jXQ2o0kTKbVVJb5tC640H2eJQCLcBGAsYHQ/s300/85.jpg",
+        "length" : "32:22",
+        "title" : "Masha and Bear(85)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/ikgkjv22aues58p/Copy+of+975.Masha+et+Michka+-+Été+avec+Masha!🌻++Meilleure+compilation+de+dessins+animés+d_été+pour+les+enfants.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-wIADXrfdaFc/XgOjeTX0oCI/AAAAAAAAC9M/p5CQ_6V_2NAElp6ZoR7g8YYp1cjUOAipQCLcBGAsYHQ/s300/86.jpg",
+        "length" : "32:35",
+        "title" : "Masha and Bear(86)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/9o0iyj8vgb12pog/Copy+of+925.Mascha+und+der+Bär+-+☀️+Sommer+mit+Mascha!+🌻+Beste+Sommer+Cartoons+Kompilation+für+Kinder.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-WlmkJ0KFONM/XgOjewbKtwI/AAAAAAAAC9Q/J7eyVMAB4GgnMZKgkAJerOfZ56aNRn5RwCLcBGAsYHQ/s300/87.jpg",
+        "length" : "33:33",
+        "title" : "Masha and Bear(87)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/6d1jda0qai9qp7u/Copy+of+922.Маша+и+Медведь+-+В+путешествие+с+Машей!🚂+Мультфильмы+про+приключения+🌍+Все+серии+подряд.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-MIfP0-DRNAg/XgOjfiZ-gsI/AAAAAAAAC9U/S_ch0xGGukYO0MZdmK15vJhvWpF1d34BwCLcBGAsYHQ/s300/88.jpg",
+        "length" : "56:20",
+        "title" : "Masha and Bear(88)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/rldkukl5xfwi8wo/Copy+of+921.Masha+e+Orso+-+🎈La+raccolta+dei+cartoni+animati+2🎈I+migliori+cartoni+animati+per+bambini!.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-B7XuRZJBnZk/XgOjgyDoQLI/AAAAAAAAC9Y/bSat3etj1nY57C2BhHMBn-nMEBHiMKjPwCLcBGAsYHQ/s300/89.jpg",
+        "length" : "32:28",
+        "title" : "Masha and Bear(89)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/mvk1oal2qyo3ia0/Copy+of+910.Маша+та+Ведмідь+-+Знову+до+школи+(всі+серії+українською+підряд)+Masha+and+the+Bear.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-eBtnvuhIaZQ/XgOjg7StJEI/AAAAAAAAC9c/EpEJYIq5oAco2_sfMUOGLoM55mlmhh2sQCLcBGAsYHQ/s300/90.jpg",
+        "length" : "32:21",
+        "title" : "Masha and Bear(90)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/6hrslmkzxeyfybo/Copy+of+904.Маша+и+Медведь+-+SuperHero+Vs.+Ninja+и+другие+образы+Маши+😂+Новые+серии!🔥.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-IFdghedCy98/XgOjhYp0rVI/AAAAAAAAC9g/QUB-WNNJnickKOdQwGcDmV78LPQTE2ukQCLcBGAsYHQ/s300/91.jpg",
+        "length" : "33:05",
+        "title" : "Masha and Bear(91)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/xvg3nqfdn5h1k8i/Copy+of+858.Машкины+Страшилки+-+Большой+сборник+страшилок+2+🎃.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-gX7VUt-hOHE/XgOjiBtug0I/AAAAAAAAC9k/nZUq2mA6hVoCSjwAxuQ9iQv3T65i9LPBACLcBGAsYHQ/s300/92.jpg",
+        "length" : "54:32",
+        "title" : "Masha and Bear(92)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/p9ftifhyo4dr4vz/Copy+of+847.Маша+та+Ведмідь-+Всі+серії+підряд+(Кращі+серії+про+подорожі+)+Masha+and+the+Bear.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-hpnYdxLXitw/XgOjio-5J9I/AAAAAAAAC9o/Fzz9_hoJCi8JSnrN3TdB4H3p0tYuxtA1gCLcBGAsYHQ/s300/93.jpg",
+        "length" : "32:07",
+        "title" : "Masha and Bear(93)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/gu53xojsulkswin/Copy+of+835.Mascha+und+der+Bär+-+🔵+Cartoonsammlung+2+🔵+(30+Minuten).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-56avSA4LckA/XgOji6AsqsI/AAAAAAAAC9s/ToAZGMEAaf4ndb6raTgxX-JNYyX-SY-yACLcBGAsYHQ/s300/94.jpg",
+        "length" : "59:45",
+        "title" : "Masha and Bear(94)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/gz5gnirrfjrb732/Copy+of+828.Masha+e+Orso+-+La+raccolta+dei+cartoni+animati+3🎬++I+migliori+cartoni+animati+per+bambini!.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-rcH3KyAtd_U/XgOjjkCXhXI/AAAAAAAAC9w/25ONtFo3UXw8WHmO7SxqI6b5YifCOaJqwCLcBGAsYHQ/s300/95.jpg",
+        "length" : "33:01",
+        "title" : "Masha and Bear(95)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/grkag6lx4reh37h/Copy+of+825.Маша+и+Медведь+-+Лучшие+серии+2017+года+🎬.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-Ps-SuWOXmHs/XgOjkRaWFAI/AAAAAAAAC90/bOOx7qfW25U5Gr3Lj6TomI5A29JVwz3XwCLcBGAsYHQ/s300/96.jpg",
+        "length" : "32:12",
+        "title" : "Masha and Bear(96)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/sagb2688sguah68/Copy+of+818.瑪莎與熊 -+🎅+2017 冬季大合集 瑪莎的聖誕節+❄️.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-fjN-ChBo_cM/XgOjlOiSUuI/AAAAAAAAC94/of0D-b0NH54bPPq76TC3qWTEa2-1RPx9QCLcBGAsYHQ/s300/97.jpg",
+        "length" : "33:05",
+        "title" : "Masha and Bear(97)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/g27dag5w9cj505u/Copy+of+782.Mascha+und+der+Bär+-+🧡++Cartoonsammlung+3+🧡+(30+Minuten).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-2ZMd0uYqloo/XgOjlWnz7JI/AAAAAAAAC98/LCAkpQ-zR9wD-7j4UakcU_U8ucrkCMXNwCLcBGAsYHQ/s300/98.jpg",
+        "length" : "38:51",
+        "title" : "Masha and Bear(98)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/vq6a9arv6sx0570/Copy+of+779.Masha+et+Michka+-+Collection+2+🎈+(26-30+épisodes)+Dessins+animés+en+Français!.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-q22b2K8TYtU/XgOjl6pbIfI/AAAAAAAAC-A/h_HiMUyWBjMkJAH2aHXvJ2vnsriE1OsrgCLcBGAsYHQ/s300/99.jpg",
+        "length" : "44:34",
+        "title" : "Masha and Bear(99)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/btfqxot39fiplhk/Copy+of+778.Маша+та+Ведмідь-+Мишко+++Ведмедиця+❤️+Кращі+серії+про+любов+_+Masha+and+the+Bear.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-V2c9NDAmuHU/XgOjMMVDInI/AAAAAAAAC7U/zPrHf7we1-sRK-Oo1KVudArVzS1rf6dAwCLcBGAsYHQ/s300/100.jpg",
+        "length" : "32:14s",
+        "title" : "Masha and Bear(100)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/05gvwrc6smlglhw/Copy+of+773.Машині+казочки-+Великий+збірник+казок+(серії+6+-10)+Masha+and+the+Bear.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-Jkuj1isJJDc/XgRgGdxn1II/AAAAAAAAC-o/X15scz1gwLEyxu7PwQmX_3dazJmafjxrgCLcBGAsYHQ/s300/101.jpg",
+        "length" : "33:56",
+        "title" : "Masha and Bear(101)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/m58r06tr3i3le8r/Copy+of+751.Masha+e+Orso+-+La+raccolta+dei+cartoni+animati+4+😂.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-WZ_FzCc2t8s/XgRgGF2GxbI/AAAAAAAAC-k/Q39yQBshHVQ-9yeL2qgQF1EmjfKgv0-VwCLcBGAsYHQ/s300/102.jpg",
+        "length" : "32:11",
+        "title" : "Masha and Bear(102)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/fb77oo9vn061u6w/Copy+of+747.Маша+та+Ведмідь-+Машині+хобі+(Всі+серії+підряд)+Masha+and+the+Bear.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-UxrZbE3lG_I/XgRgGHfA4aI/AAAAAAAAC-g/rlx8_oUO940K4uQtzy3_Xgz4TbJ78VgCQCLcBGAsYHQ/s300/103.jpg",
+        "length" : "52:55",
+        "title" : "Masha and Bear(103)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/qf5ib6pkl4ghodh/Copy+of+746.Машкины+Страшилки+-+Сборник+5+👻+(21-26+серии).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-EJkjjgldMxA/XgRgHM7FMPI/AAAAAAAAC-s/phjnbe4SIC0W3gUPUajm9EDbUMHjwjIqACLcBGAsYHQ/s300/104.jpg",
+        "length" : "51:22",
+        "title" : "Masha and Bear(104)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/qobny8syzsknnrw/Copy+of+743.Maşa+İle+Koca+Ayı++-+5+Bölüm+bir+arada+🎬+(30+dakika+eğlence+).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-EnMmWy9KfJI/XgRgHfRhEJI/AAAAAAAAC-w/0d25oUGXAB8OqnqgDWAE1tu3T9COpQ9kgCLcBGAsYHQ/s300/105.jpg",
+        "length" : "35:01",
+        "title" : "Masha and Bear(105)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/yrjf35e5e4vxnsq/Copy+of+728.माशा+एंड+द+बेयर+-+एक+पंक्ति+में+5+एपिसोड+📺+(एपिसोड+1,6,4,3,2).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-BkMbU1nU1UE/XgRgHugTNsI/AAAAAAAAC-0/vzzsFfXiRGw8zZ5SMaZJ7aSSlik77gHWQCLcBGAsYHQ/s300/106.jpg",
+        "length" : "58:20",
+        "title" : "Masha and Bear(106)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/chbj9nn6z291x2a/Copy+of+706.Маша+и+Медведь+-+Хоккей+с+Машей!+🏒.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-fVlEmttxN5U/XgRgIBQAOtI/AAAAAAAAC-4/kML4NcmDfmgnu5tHA9HqaNWoxmQBlLfigCLcBGAsYHQ/s300/107.jpg",
+        "length" : "45:38",
+        "title" : "Masha and Bear(107)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/s3008yuje8cua9z6j/Copy+of+699.Маша+та+Ведмідь-+Чарівниця+Маша+(Всі+серії+підряд)+Masha+and+the+Bear.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-clpK8olPpFw/XgRgJBMnaFI/AAAAAAAAC-8/sHwZaiG7t6A965ZBl4nEsjkjL5R1YUCrgCLcBGAsYHQ/s300/108.jpg",
+        "length" : "58:48",
+        "title" : "Masha and Bear(108)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/ighdaialvldz8sw/Copy+of+685.ماشا+و+الدب+–🌻+الصيف+مع+ماشا!+☘.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-URPCu5Ofof0/XgRgJGH91sI/AAAAAAAAC_A/YoxeiYLU5yI159RV832SUGWzkt-hpnXmACLcBGAsYHQ/s300/109.jpg",
+        "length" : "46:33",
+        "title" : "Masha and Bear(109)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/qqc2vjmn5gpfvhr/Copy+of+666.माशा+एंड+द+बेयर+-+कार्टून+का+बड़ा+संग्रह+🎬+(भाग+1).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-az2S4TLpApQ/XgRgJ0MaOyI/AAAAAAAAC_E/4wgludmJLL4iWPfsc8aa1DKU7bZbnxzwgCLcBGAsYHQ/s300/110.jpg",
+        "length" : "33:43",
+        "title" : "Masha and Bear(110)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/spg8qijumkm6k9l/Copy+of+650.Maşa+İle+Koca+Ayı+-+5+Bölüm+bir+arada+#2+😜+(30+dakika+eğlence+).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-kgZvjfo4aaY/XgRgKY-4yNI/AAAAAAAAC_I/nXgObAkRWD4EElEE4NBGxa2fu0a4WpDpACLcBGAsYHQ/s300/111.jpg",
+        "length" : "32:28",
+        "title" : "Masha and Bear(111)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/hc0fvujiozq5xkm/Copy+of+613.माशा+एंड+द+बेयर+-+एक+पंक्ति+में+5+एपिसोड+🔥+(एपिसोड+7,32,11,27,10).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-QMWeG9bQO7o/XgRgKhaCkgI/AAAAAAAAC_M/sqwjPr35M4sGc_OTTOpYKeabfpNQg0NWQCLcBGAsYHQ/s300/112.jpg",
+        "length" : "32:52",
+        "title" : "Masha and Bear(112)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/yntksqwyyajv47m/Copy+of+602.Mascha+und+der+Bär+-++Cartoonsammlung+4+🔥(30+Minuten).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-vkpkJagGzEQ/XgRgKxv1_dI/AAAAAAAAC_Q/wL3ElKPCkQoAYDGh5EpUukbhqRYrSu5pwCLcBGAsYHQ/s300/113.jpg",
+        "length" : "59:43",
+        "title" : "Masha and Bear(113)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/mukngb0reo0wo8d/Copy+of+1210.Masha+et+Michka+-+Collection+1+(6-10+épisodes)+30+minutes+de+dessins+animés.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-5tEP3md0DQ4/XgRgLgxLRvI/AAAAAAAAC_U/53ZrAZWH3HoGWfjyoUmjnEvjhmUY-8L1gCLcBGAsYHQ/s300/114.jpg",
+        "length" : "31:34",
+        "title" : "Masha and Bear(114)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/0nedopbg2h7olhd/Copy+of+1168.瑪莎與熊+-+大合集+1+(6-10集)+全新動畫合集！.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-aSJTCVMI7L4/XgRgLqKfx4I/AAAAAAAAC_Y/4V3RUAxozEkaoX3B2W7LB2g8WL0PbMwUgCLcBGAsYHQ/s300/115.jpg",
+        "length" : "31:46",
+        "title" : "Masha and Bear(115)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/ac8ihmga6scztgg/Copy+of+1116.Masha+et+Michka+-+Collection+3+(1-5+épisodes)+30+minutes+de+dessins+animés.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-vg2v5SnSrbg/XgRgMNqfQ1I/AAAAAAAAC_c/fIlWQQ0JhJIHsSFJ8JQ8_Mebxos300gYr3QCLcBGAsYHQ/s300/116.jpg",
+        "length" : "38:09",
+        "title" : "Masha and Bear(116)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/klm71yc2k9eccso/Copy+of+1089.Маша+и+Медведь+-+Любимые+серии+Панды.+Лучший+друг+Маши+(Сборник+мультфильмов+2016).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-kGyMXGmeU-8/XgRgMkpbU9I/AAAAAAAAC_g/rghywJDcNHwyrq0bziJHTm2NbXP09ZI8QCLcBGAsYHQ/s300/117.jpg",
+        "length" : "32:28",
+        "title" : "Masha and Bear(117)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/zg96ih753v8hs3p/Copy+of+1043.Маша+и+Медведь+-+Доктор+Маша!+Маша+играет+в+доктора+(Сборник+-+Все+серии+подряд).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-Yb8NnbH1CCc/XgRgNRx291I/AAAAAAAAC_k/Di9CUtyMIWYhhzH0vWkYKVlsF1qZF0iowCLcBGAsYHQ/s300/118.jpg",
+        "length" : "31:42",
+        "title" : "Masha and Bear(118)",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/jg6srqyxgsk703u/Copy+of+1035.Маша+и+Медведь+-+Музыкальные+серии!+Сборник+лучших+мультфильмов+с+песенками+(Часть+2).mp4/file"
+      },{
+        "cover" : "https://1.bp.blogspot.com/-FGLUn7SS_ew/X1xmnFs9T_I/AAAAAAAAg7s/JoJc8GpiUzoFLUHvnpaVmFTcFFBJDki4wCLcBGAsYHQ/s300/dontwakestillSpring.jpg",
+        "length" : "6:39",
+        "title" : "Don't Wake Till Spring",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/l90d07d0yv07wcg/Masha+and+The+Bear+-+Don't+Wake+Till+Spring+(Episode+2).mp4/file"
+      },{
+        "cover" : "https://1.bp.blogspot.com/-woNhjHlR4DI/X1xmhOHvdkI/AAAAAAAAg54/sfgftriV4Cct-_-gmkdGo1pbykkHm_X2wCLcBGAsYHQ/s300/JamDay.jpg",
+        "length" : "6:40",
+        "title" : "Jam Day",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/4lxowc1pq6z51vv/Masha+and+The+Bear+-+Jam+Day+(Episode+6).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-OaYaHMlpJww/X1xmdRhzXII/AAAAAAAAg44/B256xy2eGlAaiW7FNAUbkRc6JL7M3o7sQCLcBGAsYHQ/s300/FirstDayofSchool.jpg",
+        "length" : "7:42",
+        "title" : "First day of school",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/p6kaw0lh0c65ao3/Masha+and+The+Bear+-+First+day+of+school+(Episode+11).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-vMUEQqmuAvc/X1xmfFXQFpI/AAAAAAAAg5U/SUGjTU14ENgjINsryqKIRfWDSeg3SMeFACLcBGAsYHQ/s300/HideAndSick.jpg",
+        "length" : "6:42",
+        "title" : "Hide and seek is not for the Weak ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/wqaaatogg8a2rht/Masha+and+The+Bear+-+Hide+and+seek+is+not+for+the+Weak+(Episode+13).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/--iQCvGjhoxQ/X1xmf6aSy1I/AAAAAAAAg5g/a-IDbrBPp84oSZ4AA8H4mq_0bUPFnHbuACLcBGAsYHQ/s300/HolidayOnIce.jpg",
+        "length" : "6:44",
+        "title" : "Holiday on Ice ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/54y5qkpmu32owrr/Masha+and+The+Bear+-+Holiday+on+Ice+(Episode+10).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-xwYNutdBFYw/X1xmgPuvGEI/AAAAAAAAg5o/cstGNO-_gKMp6GO4-6PIG0NKavEtJgpIACLcBGAsYHQ/s300/HomeAlone.jpg",
+        "length" : "6:26",
+        "title" : "Home Alone",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/4nebqi3jexh1op1/Masha+and+The+Bear+-+Home+Alone+(Episode+21).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-hq7MXm9LXmY/X1xmhPjza-I/AAAAAAAAg58/wTVOdA7XIAIpirKnWVdn-gffUJC2Ao_mgCLcBGAsYHQ/s300/LaDolce.jpg",
+        "length" : "6:43",
+        "title" : " La Dolce Vita",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/z37onliej04gyxk/Masha+and+The+Bear+-+La+Dolce+Vita+(Episode+33)+New+episode+2016.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-jcyFQmxIkMc/X1xmfa6lxeI/AAAAAAAAg5Y/JqVxj_FTldoUhEHQ4V1GP6POErw6dVA3ACLcBGAsYHQ/s300/Hokus.jpg",
+        "length" : "7:55",
+        "title" : "Hokus-Pokus",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/b423a25ry4xtcpc/Masha+and+The+Bear+-+Hokus-Pokus+(Episode+25)+New+video+for+kids+2016.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-zpPfnxI3BhU/X1xmofJwn8I/AAAAAAAAg74/-6bEDCXkJu8NManaKR2uB6wYG4nvbtdZACLcBGAsYHQ/s300/laundryDay.jpg",
+        "length" : "6:39",
+        "title" : " Laundry Day",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/8fms4z05yuclsyl/Masha+and+The+Bear+-+Laundry+Day+(Episode+18).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-NaLaXAq2SL0/X1xmjH-IqmI/AAAAAAAAg6c/83pRBl7myhIzX-W07DYqGEpqisTu8uH_ACLcBGAsYHQ/s300/Recipe.jpg",
+        "length" : "7:03",
+        "title" : "Recipe For Disaster",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/csrfkb5n8hck726/Masha+and+The+Bear+-+Recipe+For+Disaster+(Episode+17).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-_2Dkmkgg-qw/X1xmgF-5k0I/AAAAAAAAg5k/cV6takfEOX4lex3tL7rri-e1ZJOHbywtwCLcBGAsYHQ/s300/HomeGrownNinja.jpg",
+        "length" : "6:42",
+        "title" : "Home-Grown Ninjas",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/hldo1wxdt66mufv/Masha+and+The+Bear+-+Home-Grown+Ninjas+(Episode+51).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-wJvIEqDnL1g/X1xmk2Z8Z8I/AAAAAAAAg7A/-9AOnmL6WcwcEmBBEopaYmatoJxDebztACLcBGAsYHQ/s300/TheVeryFairy.jpg",
+        "length" : "6:45",
+        "title" : "The very fairy tale ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/exlnaqkkiqcsn43/Masha+and+The+Bear+-+The+very+fairy+tale+(Episode+54).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-waKiAyVsUCU/X1xmk2Rp3TI/AAAAAAAAg64/q6OWlU0aQfA2t7fJahH3KvVn0CZ6KrfvACLcBGAsYHQ/s300/TheGrandPiano.jpg",
+        "length" : "6:44",
+        "title" : " The Grand Piano Lesson ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/fkg5ddndgecf9ac/Masha+and+The+Bear+-+The+Grand+Piano+Lesson+(Episode+19).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-ntN1OnQ7QxE/X1xmcRlnpXI/AAAAAAAAg4s/JPuwm5bZOHkBa-F77EV35Mn72yyh_AzMQCLcBGAsYHQ/s300/BonAppe.jpg",
+        "length" : "6:42",
+        "title" : " Bon appétit!",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/mwtjrh8urj42xe6/Masha+and+The+Bear+-+Bon+appétit!+(Episode+24)+New+cartoon+for+kids+2016.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-ZzH2CTSzsuE/X1xmjNmcttI/AAAAAAAAg6k/ZXaUt6qITNQjQcAsK2eIHMQeGdsjRD3eACLcBGAsYHQ/s300/SelfMadeHero.jpg",
+        "length" : "6:43",
+        "title" : "Self-Made Hero",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/iwqwp8kadeg6wfc/Masha+and+The+Bear+-+Self-Made+Hero+(Episode+43).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-SIfVMF_dSRQ/X1xmkfAfTtI/AAAAAAAAg6s/dxn6KqbB3UApA44C2cfP6YXMGMzwFumswCLcBGAsYHQ/s300/Surprise.jpg",
+        "length" : "6:42",
+        "title" : "Surprise! Surprise! ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/aayrovvwzo5v5f8/Masha+and+The+Bear+-+Surprise!+Surprise!+(Episode+63)+Happy+Easter!+🐰.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-LejdhuSgPr8/X1xmj7391iI/AAAAAAAAg6o/gzwr7SpN2u0UPjXdQdGS1UuPILVdq3GjQCLcBGAsYHQ/s300/SpringTimeForBear.jpg",
+        "length" : "6:43",
+        "title" : "Masha and The Bear - Springtime for Bear",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/mnzwkuqzxiekxhs/Masha+and+The+Bear+-+Springtime+for+Bear+(Episode+7).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-XwZmdmu_1wM/X1xmpINo5RI/AAAAAAAAg78/KlMEDbTJCLYZPV0Ru8OSnw6xYEEdLKqWwCLcBGAsYHQ/s300/tripes.jpg",
+        "length" : "6:42",
+        "title" : " Stripes and Whiskers",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/aeom19rfi0qgq9x/Masha+and+The+Bear+-+Stripes+and+Whiskers+(Episode+20).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-_i3-Fe2cMjw/X1xme9ttowI/AAAAAAAAg5M/85hb4Zoq2DQniHAdjDwIojUINhc1JPFNQCLcBGAsYHQ/s300/HappyHavest.jpg",
+        "length" : "6:42",
+        "title" : " Happy Harvest",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/5eqcf1kinzhhl69/Masha+and+The+Bear+-+🎃+Happy+Harvest+🎃+(Episode+50).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-pIOxHyDRCg8/X1xmcHI8pjI/AAAAAAAAg4k/sOGHP7cZwNY1GvMg-N5AHPBAdxGYQYviwCLcBGAsYHQ/s300/AndAction.jpg",
+        "length" : "7:22",
+        "title" : "And Action!",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/javqyoccmi9vu32/Masha+and+The+Bear+-+And+Action!+🎥+(Episode+42).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-zSM7wccMz6c/X1xmlnNGAUI/AAAAAAAAg7M/SdIuRFGueKYfEXvOK2iFUnvXhZuEFeSCQCLcBGAsYHQ/s300/TracksofUnknownAnimals.jpg",
+        "length" : "6:48",
+        "title" : "Tracks of unknown Animals ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/wgj7ccgn4qnpk9v/Masha+and+The+Bear+-+Tracks+of+unknown+Animals+(Episode+4).mp4/file"
+      },{
+        "cover" : "https://1.bp.blogspot.com/-vb5BcSN1mu8/X1xmgAKACwI/AAAAAAAAg5s/aiP9dcHDqo0Nu4XYJ58QnYTF7IpsgiJngCLcBGAsYHQ/s300/HomeImprovement.jpg",
+        "length" : "6:42",
+        "title" : "Home Improvement",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/qxumnprcstsr50p/Masha+and+The+Bear+-+Home+Improvement+🏠+(Episode+26).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-JcTmqgA00_w/X1xmm85JFgI/AAAAAAAAg7k/w6pzmg1z-Q4pMT6obXnPctrWzfsJMc0ugCLcBGAsYHQ/s300/WatchOut.jpg",
+        "length" : "6:32",
+        "title" : " Watch out! ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/yop96lsebowao5f/Masha+and+The+Bear+-+Watch+out!+(Episode+14).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-oqjdYWIGjCA/X1xmdIzykoI/AAAAAAAAg4w/J7VAeQN0rpgOKHP0UStFomNSdCp4vtP6gCLcBGAsYHQ/s300/Dance.jpg",
+        "length" : "6:45",
+        "title" : " Dance Fever ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/tcfave4p90w4jjt/Masha+and+The+Bear+-+Dance+Fever+💃🕺+(Episode+46).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-M-HcpD2nRUc/X1xmkUXJmEI/AAAAAAAAg60/geUKIE8pU6UyDQiHSny-mVolwa6O_fV4gCLcBGAsYHQ/s300/SweptAway.jpg",
+        "length" : "7:01",
+        "title" : "Swept Away",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/i525cu8uqgd74vo/Masha+and+The+Bear+-+Swept+Away+😜+(Episode+31).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-WCPacvCHNA4/X1xmmU9UwHI/AAAAAAAAg7Y/LSejwm6dQiwbtaPOy7DyGB87OgNj33LRwCLcBGAsYHQ/s300/TresPassing.jpg",
+        "length" : "6:42",
+        "title" : "Terrible Power! ",
+        "genre" : "masha",
+         "video" : "http://www.mediafire.com/file/cd4rxy9v79qzjrb/Masha+and+The+Bear+-+Terrible+Power!+(Episode+40).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-PpPBW2SWnjE/X1xmkedU1PI/AAAAAAAAg6w/Vc_bwOaK26I3iPInFtn1wO_VzHT22CbwwCLcBGAsYHQ/s300/TheFoundling.jpg",
+        "length" : "6:42",
+        "title" : "The Foundling ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/nhwe8wz3o0883qp/Masha+and+The+Bear+-+The+Foundling+🐧+(Episode+23).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-_NhVOKnuGQg/X1xmcaUpeKI/AAAAAAAAg4o/djTugbjxt-46WOOuW9qMqgP3aREhe07kQCLcBGAsYHQ/s300/AllintheFamily.jpg",
+        "length" : "6:42",
+        "title" : "All in The Family ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/knmp0qu7gk6stqq/Masha+and+The+Bear+-+🐧+All+in+The+Family+🐻+(Episode+32).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-amqswZ3Kgcc/X1xmirWfG-I/AAAAAAAAg6Q/Wwe4gh8eGH8YPV73cEKQmAERUXNy4cQWgCLcBGAsYHQ/s300/OneHitWounder.jpg",
+        "length" : "6:41",
+        "title" : "One-Hit Wonder",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/48m0ii8ghcpax95/Masha+and+The+Bear+-+One-Hit+Wonder+🥁(Episode+29).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-MkIWeXB8jFE/X1xmhpfrSWI/AAAAAAAAg6A/wiJuLjpXw54vG2swRK4Jnu5JP5r37i8hACLcBGAsYHQ/s300/LiarLiar.jpg",
+        "length" : "7:35",
+        "title" : "Liar, liar, pants on fire! ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/yb6d6vkghmpvcgb/Masha+and+The+Bear+-+Liar,+liar,+pants+on+fire!+🌿+(Episode+57).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-B0bptVQx6Aw/X1xmdcjEbAI/AAAAAAAAg40/rGqJVngaOFw8BmTtZoREdvIE7-hOxnVagCLcBGAsYHQ/s300/Driving.jpg",
+        "length" : "7:10",
+        "title" : " Driving Lessons",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/9x521vpmedzg786/Masha+and+The+Bear+-+Driving+Lessons+🚕+(Episode+55).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-Y5rd8U7_sMk/X1xmhlR4NLI/AAAAAAAAg6E/E8px4zRqDJ8WOJFzs4emO8WKkXXe6rFHgCLcBGAsYHQ/s300/LikeCatAndMouse.jpg",
+        "length" : "6:46",
+        "title" : " Like Cat And Mouse",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/x2t8y4v2vahb3cj/Masha+and+The+Bear+-+🐱+Like+Cat+And+Mouse+🐭+(Episode+58).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-PhO3bJMxPxE/X1xmg7PaBhI/AAAAAAAAg50/_55Zb5znFiIWu4uFZefgu7lncXMK4UA2ACLcBGAsYHQ/s300/JustShootMe.jpg",
+        "length" : "6:42",
+        "title" : " Just shoot me",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/35nj3oaegdlller/Masha+and+The+Bear+-+Just+shoot+me+📸(Episode+34).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-_XgvaTBvTBQ/X1xmlYuorQI/AAAAAAAAg7E/sgNtHeM_4vENE9203KRWETBNUFYbsGWyACLcBGAsYHQ/s300/ThreeMusk.jpg",
+        "length" : "7:14",
+        "title" : " The Three Mashketeers",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/osqkogolt33ndhj/Masha+and+the+Bear+–+The+Three+Mashketeers+⚔(Episode+64).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-fi1bDYUTLJE/X1xmisBBtTI/AAAAAAAAg6U/L8Gddk77yXw2-JQVupgJ7wlm7yiJke46QCLcBGAsYHQ/s300/OnceInAYear.jpg",
+        "length" : "7:53",
+        "title" : "ONCE IN A YEAR",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/ryachllljp3ofsf/Masha+and+the+Bear+–+ONCE+IN+A+YEAR🎂🎁+(Episode+44).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-R31FXt-idPs/X1xmjPJAfVI/AAAAAAAAg6g/Bpjo-ISJiEAHt5B6a745ey49CjcfwVcBgCLcBGAsYHQ/s300/RockABye.jpg",
+        "length" : "6:42",
+        "title" : "ROCK-A-BYE, BABY!",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/572r78ipmmia63n/Masha+and+the+Bear+–+🐑ROCK-A-BYE,+BABY!🐑+(Episode+62).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-5JjTmmTgO9Y/X1xmdxTa3ZI/AAAAAAAAg48/AD0TqRZhhd02nF_H9I6s4kK_mXTfDp7QACLcBGAsYHQ/s300/GameOver.jpg",
+        "length" : "7:03",
+        "title" : " Game Over ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/gcaxn91h4vrp1t4/Masha+and+the+Bear+–+Game+Over+🕹️(Episode+59).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/--eTK8A6npMI/X1xmoY1ADxI/AAAAAAAAg70/W0GCtnD_kJA9bOF5YBJaFc6qF2F-ZQzewCLcBGAsYHQ/s300/monkey.jpg",
+        "length" : "6:42",
+        "title" : "Monkey Business ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/ibi7rbfnhr080qh/Masha+and+The+Bear+-+Monkey+Business+🐵(Episode+74).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-acY2t2QtQh4/X1xmihg0hoI/AAAAAAAAg6Y/Zp6SZ51klN4_JxBNcmEkiojCFXr17DUSwCLcBGAsYHQ/s300/OneTwoThree.jpg",
+        "length" : "6:51",
+        "title" : "One, Two, Three! Light the Chistmas Tree!",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/gosgmi5vt6yrrq8/Masha+and+The+Bear+-+One,+Two,+Three!+Light+the+Chistmas+Tree!+(Episode+3).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/--VwfMRnecEY/X1xmiSWu1wI/AAAAAAAAg6M/0hDU7TQYQowN4SBbcFdD14YtZzHNvVhFQCLcBGAsYHQ/s300/NewKids.jpg",
+        "length" : "8:02",
+        "title" : "New Kids on the Block! ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/9y9xerjfxic3n59/Masha+and+the+Bear+–+👶🐷New+Kids+on+the+Block!+🐷👶+Episode+69.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-BwIHnoGy8oo/X1xmm5iUnFI/AAAAAAAAg7g/-iEdobxWlb0czqFtrXWVUNhSLVHUUvBEgCLcBGAsYHQ/s300/WhereAllLove.jpg",
+        "length" : "6:49",
+        "title" : " Where all love to sing",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/1hkx6tflpihxlv3/Masha+and+the+Bear+😊+Where+all+love+to+sing+😊+Masha's+Songs+🇮🇹+About+Italy.mp4/file"
+      },{
+        "cover" : "https://1.bp.blogspot.com/-zb2f2nBrzjE/X1xmfbGR_LI/AAAAAAAAg5c/4hgs6kvMl4wjFpoWH90FT2_u4bEBVqZBwCLcBGAsYHQ/s300/HoldYourBreath.jpg",
+        "length" : "7:02",
+        "title" : "Hold your breath!",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/zgv1bxmrizfu5pu/Masha+and+The+Bear+-+Hold+your+breath!+(Episode+22).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-VTnG1rw4ecM/X1xmd3aX7PI/AAAAAAAAg5A/xN7nOGhSQQkXJEVmwGYhRhU6uGu7dpE2ACLcBGAsYHQ/s300/FromEngland.jpg",
+        "length" : "6:43",
+        "title" : " From England with Love",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/z0t4lazumteodo7/Masha+and+the+Bear+👑💂+From+England+with+Love+💂👑+(Episode+6)+🎵+Masha's+Songs.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-bn8TGJEWvRc/X1xmezUqVZI/AAAAAAAAg5Q/QriWuVKlufo3tG_OuMBWaa7dvm693saCgCLcBGAsYHQ/s300/HappyNewYear.jpg",
+        "length" : "6:46",
+        "title" : "Happy New Year… Again!",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/nrl7a8iw8a7d4lt/Masha+and+the+Bear+🐲💥+Happy+New+Year…+Again!+💥🐲+(Masha's+Songs,+Episode+7)+N.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-VWT-ckib47I/X1xmmXE46sI/AAAAAAAAg7U/xqqZB5R3HUkc4oGD_NKI5kO2RgRAgF18QCLcBGAsYHQ/s300/Twinkle.jpg",
+        "length" : "6:30",
+        "title" : "Twinkle, twinkle, little star",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/rvb1cf698ow3ie1/Masha+and+the+Bear+–+🚀🌕Twinkle,+twinkle,+little+star🌕🚀+Episode+70.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-XZx-6QmV4os/X1xmkzwSfoI/AAAAAAAAg68/ydJUZ_bf_1QxogG0coSmP2mCAo_7mQVgQCLcBGAsYHQ/s300/ThePuzzling.jpg",
+        "length" : "6:29",
+        "title" : "The Puzzling Case",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/y40tzm9v6p7lb7l/Masha+and+the+Bear+🧩🕵+The+Puzzling+Case+🕵🧩+(Episode+45)+NEW+EPISODE+💥.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-7SxfdVo-Z7c/X1xmmHOipWI/AAAAAAAAg7Q/kY6sWJMxJxgbQaBH8dsAAaErQnesygz-wCLcBGAsYHQ/s300/TradingPlaceDay.jpg",
+        "length" : "6:43",
+        "title" : " Trading Places Day",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/1jcxvyv7j90yo0h/Masha+and+The+Bear+-+Trading+Places+Day+🐻+(Episode+38).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-BG7FrjZqIoY/X1xmekQLNwI/AAAAAAAAg5I/SdChkz4u8oI6yf0ff5m7s7sZImkJNItOgCLcBGAsYHQ/s300/Growing.jpg",
+        "length" : "6:42",
+        "title" : "GROWING POTION ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/j1rntivncjmuvyt/Masha+and+the+Bear+–+GROWING+POTION+⚗🧪+(Episode+30).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-43Yawb2pOmA/X1xmlkFluCI/AAAAAAAAg7I/zjRCCOgudaEJTOFaQXtPyOZ3PzStDDs6gCLcBGAsYHQ/s300/TooMuch.jpg",
+        "length" : "7:41",
+        "title" : "Two Much ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/5l0zpfrzwcrq0ek/Masha+and+the+Bear+👱♀️👩+Two+Much+👩👱♀️+(Episode+36)+-+Cartoon+for+kids+of+all.mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-wYvSCyuv8AU/X1xmgloLFcI/AAAAAAAAg5w/pBEemMjYL78OE8dUEMxD2SoeiFjHb8EGACLcBGAsYHQ/s300/Horsing.jpg",
+        "length" : "7:36",
+        "title" : " Horsing Around ",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/gfb4po5hozy5425/Masha+and+The+Bear+-+Horsing+Around+🐎(Episode+28).mp4/file"
+      }, {
+        "cover" : "https://1.bp.blogspot.com/-YxfH8zpv10M/X1xmmlgrHaI/AAAAAAAAg7c/hm0f89ihHrES625zz2QDExsDT9jI0vMqgCLcBGAsYHQ/s300/Victory.jpg",
+        "length" : "6:43",
+        "title" : "Victory Cry",
+        "genre" : "masha",
+        "video" : "http://www.mediafire.com/file/5kag3gh9e9vqi7h/Masha+and+The+Bear+-+🏅+Victory+Cry+🏋️+(Episode+47).mp4/file"
+      }
+  ]
+ 
+}
+
